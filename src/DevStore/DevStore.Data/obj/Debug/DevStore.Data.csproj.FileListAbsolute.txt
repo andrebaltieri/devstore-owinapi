@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\Debug\DevStore.Data.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\Debug\DevStore.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\Debug\DevStore.Data.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\Debug\DevStore.Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\Debug\DevStore.Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\obj\Debug\DevStore.Data.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\obj\Debug\DevStore.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\obj\Debug\DevStore.Data.pdb

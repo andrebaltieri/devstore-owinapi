@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
