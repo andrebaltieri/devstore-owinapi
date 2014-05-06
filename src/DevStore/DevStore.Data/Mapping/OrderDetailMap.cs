@@ -30,9 +30,7 @@ namespace DevStore.Data.Mapping
             this.HasRequired(t => t.Order)
                 .WithMany(t => t.OrderDetails)
                 .HasForeignKey(d => d.OrderID);
-            this.HasRequired(t => t.Product)
-                .WithMany(t => t.OrderDetails)
-                .HasForeignKey(d => d.ProductID);
+            this.HasRequired(t => t.Product);
 
         }
     }

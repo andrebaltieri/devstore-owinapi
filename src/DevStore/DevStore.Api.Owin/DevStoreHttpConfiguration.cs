@@ -10,6 +10,9 @@ namespace DevStore.Api.Owin
         {
             ConfigureRoutes();
             ConfigureJsonSerialization();
+            this.EnableCors();
+            this.MapHttpAttributeRoutes();
+            this.Formatters.JsonFormatter.SerializerSettings.PreserveReferencesHandling = Newtonsoft.Json.PreserveReferencesHandling.Objects;
         }
 
         private void ConfigureRoutes()
@@ -24,7 +27,7 @@ namespace DevStore.Api.Owin
         private void ConfigureJsonSerialization()
         {
             var jsonSettings = Formatters.JsonFormatter.SerializerSettings;
-            jsonSettings.Formatting = Formatting.Indented;
+            jsonSettings.Formatting = Formatting.Indented;            
             jsonSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
         }
     }

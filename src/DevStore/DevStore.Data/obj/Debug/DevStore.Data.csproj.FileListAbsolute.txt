@@ -10,3 +10,15 @@ C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\bin\
 C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\obj\Debug\DevStore.Data.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\obj\Debug\DevStore.Data.dll
 C:\Users\Admin\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Data\obj\Debug\DevStore.Data.pdb
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\bin\Debug\DevStore.Data.dll.config
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\bin\Debug\DevStore.Data.dll
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\bin\Debug\DevStore.Data.pdb
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\bin\Debug\DevStore.Domain.dll
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\bin\Debug\EntityFramework.dll
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\bin\Debug\DevStore.Domain.pdb
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\bin\Debug\EntityFramework.xml
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\obj\Debug\DevStore.Data.csprojResolveAssemblyReference.cache
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\obj\Debug\DevStore.Data.dll
+C:\development\repository\andrebaltieri\devstore-owinapi\src\DevStore\DevStore.Data\obj\Debug\DevStore.Data.pdb
